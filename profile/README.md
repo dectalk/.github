@@ -5,6 +5,7 @@ A collection of resources for DECtalk enthusiasts.
 ## Projects
 
 - [DECtalk](https://github.com/dectalk/dectalk) / Compiling the DECtalk source code for Linux and Microsoft Windows
+- [DECtalkMini](https://github.com/dectalk/DECtalkMini) / A version of DECtalk optimized for android, windows, unix-like operating systems, and general portability
 - [list](https://github.com/dectalk/list) / A list of DECtalk lines that you can put into your `gspeak` window.
 
 ## Community
